@@ -8,6 +8,7 @@ namespace Observer
 {
     class Program
     {
+        //https://msdn.microsoft.com/en-us/library/ee850490(v=vs.110).aspx
         static void Main(string[] args)
         {
             BaggageHandler provider = new BaggageHandler();
